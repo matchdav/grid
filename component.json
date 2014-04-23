@@ -1,0 +1,13 @@
+{
+  "name": "grid",
+  "repo": "matchdav/grid",
+  "description": "a very tiny grid system",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "grid.css"
+  ]
+}
